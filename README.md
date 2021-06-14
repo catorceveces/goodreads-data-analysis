@@ -1,3 +1,3 @@
 # Goodreads Data Analysis
 
-Analysis of the first 10k Goodreads books from list Best books ever. 📚
+A data analysis approach for the first 10k books from Goodreads list Best books ever. 📚
